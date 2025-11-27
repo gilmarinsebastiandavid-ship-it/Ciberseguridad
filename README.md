@@ -1,14 +1,14 @@
 # Laboratorio XSS - Análisis de Vulnerabilidades
 
 ## Información del Equipo
-- **Integrante 1:** [Tu Nombre Completo] - [Tu Usuario GitHub]
-- **Integrante 2:** [Nombre Compañero] - [Usuario GitHub Compañero]
-- **Fecha:** [Fecha de Entrega - 23 de octubre de 2025]
-- **Repositorio:** [URL de tu repositorio fork]
+- **Integrante 1:** [Sebastian David Gil Marin
+- **Integrante 2:** Sebastian Andres Garces
+- **Fecha:** [Fecha de Entrega - 27 de octubre de 2025]
+
 
 ### Distribución de Responsabilidades
-- **Integrante 1:** Análisis de Reflected XSS y Stored XSS
-- **Integrante 2:** Análisis de DOM-based XSS y Filter Bypass
+- **Sebastian Gil:** Análisis de Reflected XSS y Stored XSS
+- **Sebastian Garces:** Análisis de DOM-based XSS y Filter Bypass
 
 ---
 
