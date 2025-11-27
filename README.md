@@ -650,37 +650,6 @@ Para realizar cualquier actividad de seguridad legítima, necesitamos:
 - Contactos de emergencia en caso de incidentes
 - Acuerdos de confidencialidad (NDA) apropiados
 
-### Reflexión Personal del Equipo
-
-**[Integrante 1]:**
-"Este laboratorio me hizo reflexionar sobre lo fácil que es comprometer un sistema cuando la seguridad no se toma en serio desde el diseño. Como desarrollador, mi responsabilidad no es solo que el código funcione, sino que sea seguro. Cada línea de código que escribo puede ser una puerta de entrada para un atacante o una barrera de protección para los usuarios."
-
-**[Integrante 2]:**
-"Lo que más me impactó fue ver cómo un simple comentario sin sanitizar puede comprometer a todos los usuarios de una aplicación. Esto me hace pensar en todas las aplicaciones que uso diariamente y confiar en que los desarrolladores tomaron la seguridad en serio. Quiero ser parte de la solución, no del problema."
-
-### Código de Conducta Personal
-
-Como equipo, nos comprometemos a:
-
-1. **Actuar con Integridad**
-   - Ser honestos sobre nuestras capacidades y limitaciones
-   - Rechazar trabajos que comprometan principios éticos
-   - Mantener la confidencialidad de información sensible
-
-2. **Promover la Seguridad**
-   - Aplicar secure coding en todos nuestros proyectos
-   - Revisar código de compañeros desde una perspectiva de seguridad
-   - Mantenernos actualizados en técnicas de ataque y defensa
-
-3. **Educar y Compartir Conocimiento**
-   - Enseñar buenas prácticas a otros desarrolladores
-   - Contribuir a proyectos open source de seguridad
-   - Participar en comunidades de ciberseguridad constructivas
-
-4. **Respeto por los Usuarios**
-   - Recordar que detrás de cada sistema hay personas reales
-   - Priorizar la privacidad y seguridad de los datos
-   - Diseñar pensando en el impacto humano de las vulnerabilidades
 
 ### Conclusión
 
@@ -713,7 +682,6 @@ El poder de las técnicas XSS viene con la responsabilidad de usarlas éticament
 12. Computer Fraud and Abuse Act (CFAA) - USA
 13. GDPR - Protección de Datos
 
----
 ---
 
 **Nota Final:** Este documento representa el trabajo colaborativo de nuestro equipo en el análisis de vulnerabilidades XSS con fines exclusivamente educativos. Todas las técnicas fueron probadas únicamente en el entorno controlado proporcionado para el laboratorio.
