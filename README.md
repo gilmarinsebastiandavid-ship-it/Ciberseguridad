@@ -1,9 +1,9 @@
 # Laboratorio XSS - Análisis de Vulnerabilidades
 
 ## Información del Equipo
-- **Integrante 1:** [Sebastian David Gil Marin
+- **Integrante 1:** Sebastian David Gil Marin
 - **Integrante 2:** Sebastian Andres Garces
-- **Fecha:** [Fecha de Entrega - 27 de octubre de 2025]
+- **Fecha:** Fecha de Entrega - 27 de octubre de 2025
 
 
 ### Distribución de Responsabilidades
